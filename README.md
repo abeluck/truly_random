@@ -14,4 +14,3 @@ example usage:
 Licensed under the Python Software Foundation License
 
 [0]: https://hkn.eecs.berkeley.edu/~dyoo/python/truly_random/
-
