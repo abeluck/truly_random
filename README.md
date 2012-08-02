@@ -9,7 +9,7 @@ Implements python's standard library random interface.
 example usage:
 
     import truly_random
-    ruly_random.random() #-> 0.27969009844631798
-    ruly_random.choice('aeiou') #-> e
+    truly_random.random() #-> 0.27969009844631798
+    truly_random.choice('aeiou') #-> e
 
 Licensed under the Python Software Foundation License

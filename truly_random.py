@@ -8,8 +8,8 @@ Licensed under the Python Software Foundation License
 
 usage:
     import truly_random
-    ruly_random.random() #-> 0.27969009844631798
-    ruly_random.choice('aeiou') #-> e
+    truly_random.random() #-> 0.27969009844631798
+    truly_random.choice('aeiou') #-> e
 
 [0]: https://hkn.eecs.berkeley.edu/~dyoo/python/truly_random/
      Danny Yoo (dyoo@hkn.eecs.berkeley.edu)
